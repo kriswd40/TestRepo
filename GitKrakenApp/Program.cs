@@ -17,12 +17,17 @@ namespace GitKrakenApp
             classTwo.Description = "Description 2";
             classTwo.ClassId = 2;
 
+            var classFour = new ClassOne();
+            classFour.Description = "Description 4";
+            classFour.ClassId = 4;
+
             var classes = new List<ClassOne>();
 
             classes.Add(classOne);
             classes.Add(classTwo);
+            classes.Add(classFour);
 
-            foreach(var className in classes)
+            foreach (var className in classes)
             {
                 Console.WriteLine(className.Description + Environment.NewLine);
             }
