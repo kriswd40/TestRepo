@@ -9,3 +9,7 @@ GitKrakenApp/.vs/GitKrakenApp/v17/.suo
 GitKrakenApp/obj/Debug/net6.0/GitKrakenApp.pdb
 
 *.pdb
+
+*.dll
+
+*.cache
