@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitKrakenApp", "GitKrakenApp.csproj", "{DF65436B-491E-4EB0-8540-843AAE6EAC7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF65436B-491E-4EB0-8540-843AAE6EAC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF65436B-491E-4EB0-8540-843AAE6EAC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF65436B-491E-4EB0-8540-843AAE6EAC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF65436B-491E-4EB0-8540-843AAE6EAC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF96E74C-0F76-49E7-9E12-A7627D58E0D7}
+	EndGlobalSection
+EndGlobal
