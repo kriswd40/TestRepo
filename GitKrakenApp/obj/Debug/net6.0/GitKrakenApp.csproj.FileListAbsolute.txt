@@ -1,0 +1,15 @@
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\bin\Debug\net6.0\GitKrakenApp.exe
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\bin\Debug\net6.0\GitKrakenApp.deps.json
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\bin\Debug\net6.0\GitKrakenApp.runtimeconfig.json
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\bin\Debug\net6.0\GitKrakenApp.dll
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\bin\Debug\net6.0\GitKrakenApp.pdb
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.csproj.AssemblyReference.cache
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.AssemblyInfoInputs.cache
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.AssemblyInfo.cs
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.csproj.CoreCompileInputs.cache
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.dll
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\refint\GitKrakenApp.dll
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.pdb
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\GitKrakenApp.genruntimeconfig.cache
+C:\Users\KrisSteele\Documents\GitTest\TestRepo\GitKrakenApp\obj\Debug\net6.0\ref\GitKrakenApp.dll
